@@ -1,0 +1,4 @@
+/home/matter/iti/c#/loopandfun/obj/Debug/net8.0/loopandfun.GeneratedMSBuildEditorConfig.editorconfig
+/home/matter/iti/c#/loopandfun/obj/Debug/net8.0/loopandfun.AssemblyInfoInputs.cache
+/home/matter/iti/c#/loopandfun/obj/Debug/net8.0/loopandfun.AssemblyInfo.cs
+/home/matter/iti/c#/loopandfun/obj/Debug/net8.0/loopandfun.csproj.CoreCompileInputs.cache

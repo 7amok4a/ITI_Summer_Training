@@ -1,0 +1,14 @@
+/home/matter/iti/c#/operators/bin/Debug/net8.0/operators
+/home/matter/iti/c#/operators/bin/Debug/net8.0/operators.deps.json
+/home/matter/iti/c#/operators/bin/Debug/net8.0/operators.runtimeconfig.json
+/home/matter/iti/c#/operators/bin/Debug/net8.0/operators.dll
+/home/matter/iti/c#/operators/bin/Debug/net8.0/operators.pdb
+/home/matter/iti/c#/operators/obj/Debug/net8.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/matter/iti/c#/operators/obj/Debug/net8.0/operators.AssemblyInfoInputs.cache
+/home/matter/iti/c#/operators/obj/Debug/net8.0/operators.AssemblyInfo.cs
+/home/matter/iti/c#/operators/obj/Debug/net8.0/operators.csproj.CoreCompileInputs.cache
+/home/matter/iti/c#/operators/obj/Debug/net8.0/operators.dll
+/home/matter/iti/c#/operators/obj/Debug/net8.0/refint/operators.dll
+/home/matter/iti/c#/operators/obj/Debug/net8.0/operators.pdb
+/home/matter/iti/c#/operators/obj/Debug/net8.0/operators.genruntimeconfig.cache
+/home/matter/iti/c#/operators/obj/Debug/net8.0/ref/operators.dll

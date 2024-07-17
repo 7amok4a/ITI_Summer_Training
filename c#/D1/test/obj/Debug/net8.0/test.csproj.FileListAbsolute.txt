@@ -1,0 +1,14 @@
+/home/matter/iti/c#/test/bin/Debug/net8.0/test
+/home/matter/iti/c#/test/bin/Debug/net8.0/test.deps.json
+/home/matter/iti/c#/test/bin/Debug/net8.0/test.runtimeconfig.json
+/home/matter/iti/c#/test/bin/Debug/net8.0/test.dll
+/home/matter/iti/c#/test/bin/Debug/net8.0/test.pdb
+/home/matter/iti/c#/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/matter/iti/c#/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/home/matter/iti/c#/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/home/matter/iti/c#/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/home/matter/iti/c#/test/obj/Debug/net8.0/test.dll
+/home/matter/iti/c#/test/obj/Debug/net8.0/refint/test.dll
+/home/matter/iti/c#/test/obj/Debug/net8.0/test.pdb
+/home/matter/iti/c#/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/home/matter/iti/c#/test/obj/Debug/net8.0/ref/test.dll

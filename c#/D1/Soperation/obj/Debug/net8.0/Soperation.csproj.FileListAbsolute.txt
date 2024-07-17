@@ -1,0 +1,14 @@
+/home/matter/iti/c#/Soperation/bin/Debug/net8.0/Soperation
+/home/matter/iti/c#/Soperation/bin/Debug/net8.0/Soperation.deps.json
+/home/matter/iti/c#/Soperation/bin/Debug/net8.0/Soperation.runtimeconfig.json
+/home/matter/iti/c#/Soperation/bin/Debug/net8.0/Soperation.dll
+/home/matter/iti/c#/Soperation/bin/Debug/net8.0/Soperation.pdb
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/Soperation.GeneratedMSBuildEditorConfig.editorconfig
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/Soperation.AssemblyInfoInputs.cache
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/Soperation.AssemblyInfo.cs
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/Soperation.csproj.CoreCompileInputs.cache
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/Soperation.dll
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/refint/Soperation.dll
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/Soperation.pdb
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/Soperation.genruntimeconfig.cache
+/home/matter/iti/c#/Soperation/obj/Debug/net8.0/ref/Soperation.dll

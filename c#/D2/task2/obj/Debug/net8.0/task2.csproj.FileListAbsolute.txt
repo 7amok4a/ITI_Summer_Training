@@ -1,0 +1,14 @@
+/home/matter/iti/c#/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/matter/iti/c#/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/home/matter/iti/c#/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/home/matter/iti/c#/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/home/matter/iti/c#/task2/bin/Debug/net8.0/task2
+/home/matter/iti/c#/task2/bin/Debug/net8.0/task2.deps.json
+/home/matter/iti/c#/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/home/matter/iti/c#/task2/bin/Debug/net8.0/task2.dll
+/home/matter/iti/c#/task2/bin/Debug/net8.0/task2.pdb
+/home/matter/iti/c#/task2/obj/Debug/net8.0/task2.dll
+/home/matter/iti/c#/task2/obj/Debug/net8.0/refint/task2.dll
+/home/matter/iti/c#/task2/obj/Debug/net8.0/task2.pdb
+/home/matter/iti/c#/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/home/matter/iti/c#/task2/obj/Debug/net8.0/ref/task2.dll
