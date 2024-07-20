@@ -65,7 +65,6 @@ struct Employee
     private int age;
     private string address;
 
-    // Properties with validation
     public string Ssn
     {
         get { return ssn; }
@@ -108,7 +107,7 @@ struct Employee
         }
     }
 
-    // Method to print employee data on the console
+    
     public void PrintOnConsole()
     {
         Console.WriteLine($"SSN: {ssn}");
@@ -118,7 +117,7 @@ struct Employee
         Console.WriteLine($"Address: {address}");
     }
 
-    // Method to return employee data as a string
+  
     public string PrintAsString()
     {
         return $"SSN: {ssn}, First Name: {fname}, Last Name: {lname}, Age: {age}, Address: {address}";

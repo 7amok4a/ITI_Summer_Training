@@ -1,0 +1,15 @@
+/home/matter/ITI_Summer_Training/c#/D4/task2/bin/Debug/net8.0/task2
+/home/matter/ITI_Summer_Training/c#/D4/task2/bin/Debug/net8.0/task2.deps.json
+/home/matter/ITI_Summer_Training/c#/D4/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/home/matter/ITI_Summer_Training/c#/D4/task2/bin/Debug/net8.0/task2.dll
+/home/matter/ITI_Summer_Training/c#/D4/task2/bin/Debug/net8.0/task2.pdb
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/task2.sourcelink.json
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/task2.dll
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/refint/task2.dll
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/task2.pdb
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/home/matter/ITI_Summer_Training/c#/D4/task2/obj/Debug/net8.0/ref/task2.dll
